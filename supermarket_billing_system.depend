@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1667581499 source:d:\chinmayi\sem 3\oop project testing\supermarket_billing_system\main.cpp
+	<iostream>
+	<map>
+	<fstream>
+	<string>
+
